@@ -1,0 +1,28 @@
+            
+                                   ****************************************************************************
+                                   *                                                                          *
+                                   *                                                                          *
+                                   *      EVERYTHING YOU WANTED TO KNOW ABOUT OBJECT ORIENTED PROGRAMMING     *
+                                   *                                                                          *
+                                   *                                                                          *
+                                   ****************************************************************************
+ 
+ PILLARS OF OBJECT ORIENTED PROGRAMMING :)
+ 
+ 1. ABSTRACTION
+ 2. ENCAPSULATION
+ 3. INHERITANCE
+ 4. POLYMORPHISM
+
+
+ WHAT IS OBJECT ORIENTED PROGRAMMING?
+ 
+ AN OBJECT-ORIENTED PROGRAMMING IS A WAY PROGRAMMING WHICH ENABLES PROGRAMMERS TO THINK LIKE THEY ARE WORKING WITH REAL-LIFE ENTITIES(A THING WITH DISTINCT AND 
+ INDEPENDENT EXISTENCE) OR OBJECTS. iN REAL-LIFE, PEOPLE HAVE KNOWLEDGE AND CAN DO VARIOUS WORKS. iN oop, OBJECTS HAVE FIELDS TO STORE KNOWLEDGE/STATE/DATA AND 
+ CAN DO VARIOUS WORKS — METHODS.
+
+1. ABSTRACTION
+
+ABSTRACTION IS A PROCESS OF HIDING THE IMPLEMENTATION DETAILS FROM THE USER, ONLY THE FUNCTIONALITY WILL BE PROVIDED TO THE USER.IN OTHER WORDS,
+THE USER WILL HAVE THE INFORMATION ON WHAT THE OBJECT DOES INSTEAD OF HOW IT DOES IT. BY HIDING COMPLEX STEPS/DETAILS/COMPUTATIONS/STATEMENTS INSIDE YOUR CLASSES
+AND CREATING PUBLIC METHODS TO ACCESS THEM. EX: WRAPPER CLASSES
